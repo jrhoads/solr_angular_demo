@@ -39,3 +39,10 @@ venv/
 
 # Project files
 .idea/
+node_modules
+bower_components
+.sass-cache
+temp
+.tmp
+dist
+test

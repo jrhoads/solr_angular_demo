@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('solrAngularDemoApp', [])
+angular.module('solrAngularDemoApp', ['ngRoute'])
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
